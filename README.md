@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Rawr](Light Painting_Pussycat_ZkRlQA.jpg)
+![Book Cover](Ladies Almanack Cover Page.jpg)
 
 You can use the [editor on GitHub](https://github.com/GWilly/testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
