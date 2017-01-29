@@ -1,4 +1,4 @@
-Linking Internal Evidence to External
+**Linking Internal Evidence to External**
 ==============================
 
 ---------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Post a link to your page and a *short* narrative of how you found the external s
 
 -------------------------------------------------------------------------------
 ####**Passage:**
-#####"This be a Love Letter for a Present, and when she is Catched, what shall I do with her?  God knows!  For 'tiss safe to say I do not, and what we know not, is our only proof of Him!" - February pg. 14
+"This be a Love Letter for a Present, and when she is Catched, what shall I do with her?  God knows!  For 'tiss safe to say I do not, and what we know not, is our only proof of Him!" - February pg. 14
 
 -------------------------------------------------------------------------------
 ####**Analysis:**
